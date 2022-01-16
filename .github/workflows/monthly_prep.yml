@@ -20,7 +20,7 @@ jobs:
 
       - name: Release snapshot
         id: release-snapshot
-        uses: softprops/action-gh-release@v0.1.8"
+        uses: softprops/action-gh-release@v0.1.8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
