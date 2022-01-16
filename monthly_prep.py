@@ -59,7 +59,7 @@ def main():
     ndaily = tdaily[tdaily["id"].isin(tops)]
     for col in all_dates_current_month():
         ndaily.insert(len(ndaily.columns), col, 0)
-    ndaily.to_csv("ndaily.csv", index=False)
+    ndaily.to_csv("daily.csv", index=False)
 
 
 if __name__ == "__main__":

@@ -37,7 +37,7 @@ def get_ranking_urls(timespan):
 
 
 def main():
-    data = pd.read_csv("daily.csv")
+    daily = pd.read_csv("daily.csv")
     client = httpx.Client(headers=headers, timeout=TIMEOUT)
     reqs = list()
     for ts in ["daily", "weekly", "monthly"]:
@@ -61,23 +61,23 @@ def main():
     for du in dailytuples:
         reqs.append(client.get(sl.get_info_panel(du[0])))
     client.close()
-    if exd not in data.columns:
-        raise IndexError("Date not in columns")
+    if exd not in daily.columns:
+        raise IndexError(f"Date not in columns: {exd}")
     for du, req in zip(dailytuples, reqs):
-        # check if fin data
-        if du[0] in data.id.values:
-            idx = data.index[data["id"] == du[0]].values[0]
-            data.at[idx, exd] = sl.extract_points(req)
+        # check if fin daily
+        if du[0] in daily.id.values:
+            idx = daily.index[daily["id"] == du[0]].values[0]
+            daily.at[idx, exd] = sl.extract_points(req)
         else:
-            data.loc[data.shape[0]] = 0
-            data.at[data.shape[0] - 1, "id"] = du[0]
-            data.at[data.shape[0] - 1, "title"] = du[1]
+            daily.loc[daily.shape[0]] = 0
+            daily.at[daily.shape[0] - 1, "id"] = du[0]
+            daily.at[daily.shape[0] - 1, "title"] = du[1]
             try:
-                data.at[data.shape[0] - 1, exd] = sl.extract_points(req)
+                daily.at[daily.shape[0] - 1, exd] = sl.extract_points(req)
             except ValueError as e:
                 nreq = httpx.get(req.url)
-                data.at[data.shape[0] - 1, exd] = sl.extract_points(nreq)
-    data.to_csv("daily.csv", index=False)
+                daily.at[daily.shape[0] - 1, exd] = sl.extract_points(nreq)
+    daily.to_csv("daily.csv", index=False)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,59 @@
+name: monthly_prep
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 10 1 * *' # “At 10:10 on day-of-month 1.”
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+        with:
+          lfs: true
+
+      - name: Release snapshot
+        id: release-snapshot
+        uses: softprops/action-gh-release@v0.1.8"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.date.outputs.date }}
+          release_name: ${{ steps.date.outputs.date }}
+          body: Monthly snapshot
+          prerelease: false
+          files: daily.csv
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9.9' # install the python version needed
+          
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+
+      - name: Install dependencies
+        run: poetry install --no-interaction --no-root --no-dev
+
+      - name: execute py script # run daily scrape
+        run: poetry run python monthly_prep.py
+
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
