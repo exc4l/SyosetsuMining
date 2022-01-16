@@ -27,7 +27,7 @@ jobs:
         run: poetry install --no-interaction --no-root --no-dev
 
       - name: execute py script # run daily scrape
-        run: poetry run daily_fetch.py
+        run: poetry run python daily_fetch.py
 
           
       - name: commit files
