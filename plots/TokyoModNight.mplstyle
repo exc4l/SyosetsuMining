@@ -1,0 +1,36 @@
+# Modified Tokyo Night for Plots
+# https://github.com/enkia/tokyo-night-vscode-theme
+# https://github.com/nschloe/matplotx/blob/main/src/matplotx/styles/_tokyo_night.py
+
+font.size : 14
+font.weight : bold
+axes.labelweight : bold
+axes.titlesize : 18
+axes.titleweight : bold
+
+lines.color : c0caf5
+patch.edgecolor : c0caf5
+text.color : e8ecff
+axes.facecolor : 1a1b26
+axes.edgecolor : c0caf5
+axes.labelcolor : e8ecff
+#xtick.color : e8ecff
+#ytick.color : e8ecff
+xtick.labelcolor : e8ecff
+ytick.labelcolor : e8ecff
+xtick.minor.bottom : True
+xtick.minor.width : 0.4
+xtick.minor.size : 3.5
+axes.spines.bottom: True
+legend.framealpha : 0
+grid.color : 565f89
+figure.facecolor : 1a1b26
+figure.edgecolor : 1a1b26
+savefig.facecolor : 1a1b26
+savefig.edgecolor : 1a1b26
+boxplot.boxprops.color : c0caf5
+boxplot.capprops.color : c0caf5
+boxplot.flierprops.color : c0caf5
+boxplot.flierprops.markeredgecolor : c0caf5
+boxplot.whiskerprops.color : c0caf5
+axes.prop_cycle : cycler('color', ['f7768e', '2ac3de', '7aa2f7', 'ff9e64', '9ece6a', '9d7cd8', 'bb9af7', '565f89', 'e0af68', '7dcfff'])

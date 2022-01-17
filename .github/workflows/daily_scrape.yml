@@ -28,6 +28,9 @@ jobs:
 
       - name: execute py script # run daily scrape
         run: poetry run python daily_fetch.py
+      
+      - name: create plots
+        run: poetry run python daily_plots.py
 
           
       - name: commit files
