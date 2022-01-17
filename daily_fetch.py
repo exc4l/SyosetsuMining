@@ -12,30 +12,6 @@ headers = {
 TIMEOUT = 30
 
 
-def get_ranking_urls(timespan):
-    return [
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_101/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_102/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_201/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_202/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_301/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_302/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_303/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_304/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_305/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_306/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_307/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_401/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_402/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_403/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_404/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_9901/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_9902/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_9903/",
-        f"https://yomou.syosetu.com/rank/genrelist/type/{timespan}_9999/",
-    ]
-
-
 def main():
     daily = pd.read_csv("daily.csv")
     client = httpx.Client(headers=headers, timeout=TIMEOUT)
