@@ -17,7 +17,7 @@ def main():
     client = httpx.Client(headers=headers, timeout=TIMEOUT)
     reqs = list()
     for ts in ["daily", "weekly", "monthly"]:
-        for du in get_ranking_urls(ts):
+        for du in sl.get_ranking_urls(ts):
             reqs.append(client.get(du))
     client.close()
     dailytuples = list()
