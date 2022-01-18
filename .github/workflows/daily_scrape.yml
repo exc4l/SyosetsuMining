@@ -28,6 +28,18 @@ jobs:
 
       - name: execute py script # run daily scrape
         run: poetry run python daily_fetch.py
+
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -a -m "update data"
+      
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
       
       - name: create plots
         run: poetry run python daily_plots.py
@@ -37,8 +49,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "update data" -a
+          git commit -a -m "update plots"
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
