@@ -45,14 +45,18 @@ def main():
             idx = daily.index[daily["id"] == du[0]].values[0]
             daily.at[idx, exd] = sl.extract_points(req)
         else:
+            try:
+                extr_points = sl.extract_points(req)
+            except ValueError as e:
+                nreq = httpx.get(req.url)
+                try:
+                    extr_points = sl.extract_points(nreq)
+                except ValueError as e:
+                    continue
             daily.loc[daily.shape[0]] = 0
             daily.at[daily.shape[0] - 1, "id"] = du[0]
             daily.at[daily.shape[0] - 1, "title"] = du[1]
-            try:
-                daily.at[daily.shape[0] - 1, exd] = sl.extract_points(req)
-            except ValueError as e:
-                nreq = httpx.get(req.url)
-                daily.at[daily.shape[0] - 1, exd] = sl.extract_points(nreq)
+            daily.at[daily.shape[0] - 1, exd] = extr_points
     daily.to_csv("daily.csv", index=False)
 
 
