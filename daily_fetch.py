@@ -40,19 +40,19 @@ def main():
     if exd not in daily.columns:
         raise IndexError(f"Date not in columns: {exd}")
     for du, req in zip(dailytuples, reqs):
+        try:
+            extr_points = sl.extract_points(req)
+        except ValueError as e:
+            nreq = httpx.get(req.url)
+            try:
+                extr_points = sl.extract_points(nreq)
+            except ValueError as e:
+                continue
         # check if fin daily
         if du[0] in daily.id.values:
             idx = daily.index[daily["id"] == du[0]].values[0]
-            daily.at[idx, exd] = sl.extract_points(req)
+            daily.at[idx, exd] = extr_points
         else:
-            try:
-                extr_points = sl.extract_points(req)
-            except ValueError as e:
-                nreq = httpx.get(req.url)
-                try:
-                    extr_points = sl.extract_points(nreq)
-                except ValueError as e:
-                    continue
             daily.loc[daily.shape[0]] = 0
             daily.at[daily.shape[0] - 1, "id"] = du[0]
             daily.at[daily.shape[0] - 1, "title"] = du[1]
