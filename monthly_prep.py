@@ -32,6 +32,8 @@ def main():
     for idx, row in daily.iterrows():
         vals = row[2:].to_list()
         lastval = sl.get_last_val(vals)
+        if lastval is None:
+            continue
         lastvalidx = vals.index(lastval)
         if row["id"] in checkids:
             rowdex = data[data["id"] == row["id"]].index[0]
