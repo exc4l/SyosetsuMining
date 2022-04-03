@@ -1,9 +1,10 @@
+import numpy as np
 import pandas as pd
 import syosetsuLib as sl
 import httpx
 from bs4 import BeautifulSoup
 from datetime import datetime
-
+from daily_plots import calc_diff
 
 exd = datetime.today().strftime("%d/%m/%Y")
 headers = {
@@ -14,6 +15,38 @@ TIMEOUT = 30
 
 def main():
     daily = pd.read_csv("daily.csv")
+
+    calccol = [col for col in daily.columns if col not in igno_columns]
+    calccol.reverse()
+
+    diffdb = daily.copy()
+
+    for idx, row in diffdb.iterrows():
+        for i in range(len(calccol) - 1):
+            diffdb.at[idx, calccol[i]] = calc_diff(row[calccol[i]], row[calccol[i + 1]])
+        diffdb.at[idx, calccol[-1]] = 0
+
+    diffdb["sum"] = 0
+    i = 0
+    for idx, row in diffdb.iterrows():
+        val = row.iloc[2:].values
+        zeros = np.count_nonzero(val == 0) - 1
+        valsum = np.sum(val)
+        if valsum == 0:
+            continue
+        try:
+            diffdb.at[idx, "sum"] = valsum / (val.shape[0] - zeros - 1)
+        except ZeroDivisionError as e:
+            print(val)
+            print(zeros)
+            print(np.sum(val))
+            print((val.shape[0] - zeros - 1))
+            print(np.sum(val) / (val.shape[0] - zeros - 1))
+            print(f"{idx=}")
+
+    topids = diffdb.sort_values(by=["sum"], ascending=False)[:TOPNUM].id.to_list()
+    topnames = diffdb.sort_values(by=["sum"], ascending=False)[:TOPNUM].title.to_list()
+
     client = httpx.Client(headers=headers, timeout=TIMEOUT)
     reqs = list()
     for ts in ["daily", "weekly", "monthly"]:
@@ -31,6 +64,9 @@ def main():
             # print(t.find("a", class_="tl").get_text())
             tl = t.find("a", class_="tl").get_text()
             dailytuples.append((u, tl))
+    for u, tl in zip(topids, topnames):
+        dailytuples.append((u, tl))
+
     dailytuples = list(set(dailytuples))
     client = httpx.Client(headers=headers, timeout=TIMEOUT)
     reqs = list()
