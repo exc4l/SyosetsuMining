@@ -11,7 +11,8 @@ headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
 }
 TIMEOUT = 30
-
+TOPNUM = 100
+igno_columns = ["id", "title"]
 
 def main():
     daily = pd.read_csv("daily.csv")
