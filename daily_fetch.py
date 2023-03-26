@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import syosetsuLib as sl
 import httpx
+import time
 from bs4 import BeautifulSoup
 from datetime import datetime
 from daily_plots import calc_diff
@@ -13,6 +14,7 @@ headers = {
 TIMEOUT = 30
 TOPNUM = 100
 igno_columns = ["id", "title"]
+
 
 def main():
     daily = pd.read_csv("daily.csv")
@@ -72,7 +74,14 @@ def main():
     client = httpx.Client(headers=headers, timeout=TIMEOUT)
     reqs = list()
     for du in dailytuples:
-        reqs.append(client.get(sl.get_info_panel(du[0])))
+        result = None
+        while result is None:
+            try:
+                result = client.get(sl.get_info_panel(du[0]))
+            except httpx.ConnectTimeout as e:
+                time.sleep(5)
+
+        reqs.append(result)
     client.close()
     if exd not in daily.columns:
         raise IndexError(f"Date not in columns: {exd}")
