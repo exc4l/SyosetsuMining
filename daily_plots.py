@@ -158,3 +158,26 @@ with plt.style.context(matplotx.styles.dufte):
             fontproperties=fprop,
         )
         plt.savefig(PLOTPATH / "point_trend.png", bbox_inches="tight")
+
+with open("README.md", "r", encoding="utf-8") as f:
+    readmetext = f.read()
+
+
+def get_ncode_link(nid):
+    return f"https://ncode.syosetu.com/n{nid}/"
+
+
+trendstr = ""
+for count, a in enumerate(topids):
+    trendstr = (
+        trendstr
+        + f"{count+1}. [{str(data[data['id'] == a]['title'].values[0])}]({get_ncode_link(a)})\n"
+    )
+readmetext = (
+    readmetext[: readmetext.find("## Trending") + len("## Trending")]
+    + "\n\n"
+    + trendstr
+)
+
+with open("README.md", "w", encoding="utf-8") as wr:
+    wr.write(readmetext)
