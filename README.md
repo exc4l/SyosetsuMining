@@ -8,8 +8,8 @@
 
 ## Trending
 
-1. [婚約者は義妹の方が大切なので、ふたりが結婚できるようにしてあげようと思います](https://ncode.syosetu.com/n8269hq/)
-2. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+1. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+2. [婚約者は義妹の方が大切なので、ふたりが結婚できるようにしてあげようと思います](https://ncode.syosetu.com/n8269hq/)
 3. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 4. [伯爵夫人がゴボウで素振りをしている](https://ncode.syosetu.com/n1717io/)
 5. [手段は選びません！](https://ncode.syosetu.com/n7834io/)
