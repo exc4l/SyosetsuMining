@@ -17,4 +17,4 @@
 7. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 8. [華麗なるサファイアは悪役令嬢の汚名を着ない](https://ncode.syosetu.com/n5634io/)
 9. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
-10. [バッドエンドしかない悪役令嬢に転生したので、好きに生きます](https://ncode.syosetu.com/n6596io/)
+10. [手段は選びません！](https://ncode.syosetu.com/n7834io/)
