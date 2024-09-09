@@ -16,5 +16,5 @@
 6. [バッドランド・サガ ～カリスマ極振り異世界転生～](https://ncode.syosetu.com/n4990io/)
 7. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 8. [華麗なるサファイアは悪役令嬢の汚名を着ない](https://ncode.syosetu.com/n5634io/)
-9. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
-10. [手段は選びません！](https://ncode.syosetu.com/n7834io/)
+9. [【書籍2巻発売/コミカライズ連載中】悪役令嬢の矜持〜婚約者を奪い取って義姉を追い出した私は、どうやら今から破滅するようです。〜](https://ncode.syosetu.com/n0753hr/)
+10. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
