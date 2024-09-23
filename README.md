@@ -16,5 +16,5 @@
 6. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 7. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
 8. [ミニャのオモチャ箱　～ネコミミ少女交流記～](https://ncode.syosetu.com/n6187io/)
-9. [華麗なるサファイアは悪役令嬢の汚名を着ない](https://ncode.syosetu.com/n5634io/)
-10. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
+9. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
+10. [バッドランド・サガ ～カリスマ極振り異世界転生～](https://ncode.syosetu.com/n4990io/)
