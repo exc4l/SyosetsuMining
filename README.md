@@ -16,5 +16,5 @@
 6. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
 7. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 8. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
-9. [ミニャのオモチャ箱　～ネコミミ少女交流記～](https://ncode.syosetu.com/n6187io/)
-10. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
+9. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
+10. [ミニャのオモチャ箱　～ネコミミ少女交流記～](https://ncode.syosetu.com/n6187io/)
