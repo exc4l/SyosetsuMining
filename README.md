@@ -16,5 +16,5 @@
 6. [【短編】傲慢天才魔法使いの婚約者へ意趣返しで家を出てやった騎士令嬢のその後。](https://ncode.syosetu.com/n0356io/)
 7. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
 8. [【資格マスター】の現代ダンジョン攻略記](https://ncode.syosetu.com/n7332im/)
-9. [イチャつくのに邪魔だからと冒険者パーティ追放されました！～それなら不労所得目指して賃貸経営いたします～](https://ncode.syosetu.com/n6477io/)
-10. [忠告はしましたよ？](https://ncode.syosetu.com/n9151in/)
+9. [忠告はしましたよ？](https://ncode.syosetu.com/n9151in/)
+10. [イチャつくのに邪魔だからと冒険者パーティ追放されました！～それなら不労所得目指して賃貸経営いたします～](https://ncode.syosetu.com/n6477io/)
