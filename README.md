@@ -8,8 +8,8 @@
 
 ## Trending
 
-1. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
-2. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+1. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+2. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 3. [華麗なるサファイアは悪役令嬢の汚名を着ない](https://ncode.syosetu.com/n5634io/)
 4. [【連載版】クラス転移したら、なぜか引きこもりの俺まで異世界に連れてかれたんだが　～『自宅』のギフトが最強だったので、快適な異世界ライフを送ろうと思います～](https://ncode.syosetu.com/n3960io/)
 5. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
