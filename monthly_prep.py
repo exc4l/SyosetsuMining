@@ -50,7 +50,7 @@ def main():
                 cols[lastvalidx], "%d/%m/%Y"
             )
     data.to_csv("syosetsu.xz", compression="xz", index=False)
-
+    print("written new xz")
     # create new daily
     # drop all dates besides the last 5
     # collect 100 top novels
@@ -62,6 +62,7 @@ def main():
     for col in all_dates_current_month():
         ndaily.insert(len(ndaily.columns), col, 0)
     ndaily.to_csv("daily.csv", index=False)
+    print("written new daily")
 
 
 if __name__ == "__main__":
