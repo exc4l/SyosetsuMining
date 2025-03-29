@@ -38,7 +38,7 @@ jobs:
         uses: snok/install-poetry@v1
 
       - name: Install dependencies
-        run: poetry install --no-interaction --no-root --no-dev
+        run: poetry install --no-interaction --no-root
 
       - name: execute py script # run daily scrape
         run: poetry run python monthly_prep.py
