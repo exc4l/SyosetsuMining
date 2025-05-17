@@ -86,9 +86,12 @@ with plt.style.context(matplotx.styles.dufte):
             #     data[data["id"] == a].iloc[:, 2:].values
             #     - data[data["id"] == a].iloc[:, 2].values
             # )
-            y = data[data["id"] == a].iloc[:, 2:].values - get_first_val(
+            firstval = get_first_val(
                 data[data["id"] == a].iloc[:, 2:].values[0]
             )
+            if not firstval:
+                firstval = 0
+            y = data[data["id"] == a].iloc[:, 2:].values - firstval
             y = y.reshape(-1)
             x = data[data["id"] == a].iloc[:, 2:].columns
             xdates = [
