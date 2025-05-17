@@ -153,10 +153,18 @@ def extract_points(req):
         tab2 = notab()
     if tab2.find(text="総合評価"):
         overall_points = (
-            tab2.find(text="総合評価").parent.parent.find("td").get_text().split()[0][:-2]
+            tab2.find(text="総合評価")
+            .parent.parent.find("td")
+            .get_text()
+            .split()[0][:-2]
         )
     else:
-        overall_points = "0"
+        overall_points = (
+            soup.find(string="総合評価")
+            .parent.find_next("dd")
+            .get_text()
+            .split()[0][:-2]
+        )
     return make_int(overall_points)
 
 
@@ -199,11 +207,15 @@ def parse_novel_info(req):
         gerne = "0"
     initial_release = tab2.find(text="掲載日").parent.parent.find("td").get_text()
     if tab2.find(text="最終部分掲載日"):
-        last_update = tab2.find(text="最終部分掲載日").parent.parent.find("td").get_text()
+        last_update = (
+            tab2.find(text="最終部分掲載日").parent.parent.find("td").get_text()
+        )
     elif tab2.find(text="最終更新日"):
         last_update = tab2.find(text="最終更新日").parent.parent.find("td").get_text()
     elif tab2.find(text="最新部分掲載日"):
-        last_update = tab2.find(text="最新部分掲載日").parent.parent.find("td").get_text()
+        last_update = (
+            tab2.find(text="最新部分掲載日").parent.parent.find("td").get_text()
+        )
     else:
         last_update = "0"
     char_count = tab2.find(text="文字数").parent.parent.find("td").get_text()[:-2]
@@ -217,7 +229,10 @@ def parse_novel_info(req):
 
     if tab2.find(text="レビュー"):
         review_num = (
-            tab2.find(text="レビュー").parent.parent.find("td").get_text().split()[0][:-1]
+            tab2.find(text="レビュー")
+            .parent.parent.find("td")
+            .get_text()
+            .split()[0][:-1]
         )
     else:
         review_num = "0"
@@ -231,13 +246,19 @@ def parse_novel_info(req):
 
     if tab2.find(text="総合評価"):
         overall_points = (
-            tab2.find(text="総合評価").parent.parent.find("td").get_text().split()[0][:-2]
+            tab2.find(text="総合評価")
+            .parent.parent.find("td")
+            .get_text()
+            .split()[0][:-2]
         )
     else:
         overall_points = "0"
     if tab2.find(text="評価ポイント"):
         eval_points = (
-            tab2.find(text="評価ポイント").parent.parent.find("td").get_text().split()[0][:-2]
+            tab2.find(text="評価ポイント")
+            .parent.parent.find("td")
+            .get_text()
+            .split()[0][:-2]
         )
     else:
         eval_points = "0"

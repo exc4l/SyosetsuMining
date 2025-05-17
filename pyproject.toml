@@ -13,6 +13,7 @@ httpx = "0.23.0"
 matplotlib = "^3.5.1"
 matplotx = {extras = ["all"], version = "^0.3.1"}
 lxml = "^4.7.1"
+tqdm = "^4.67.1"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.7.0"
