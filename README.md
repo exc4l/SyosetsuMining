@@ -8,13 +8,13 @@
 
 ## Trending
 
-1. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
-2. [ボロボロに傷ついた令嬢は初恋の彼の心に刻まれた](https://ncode.syosetu.com/n0530ig/)
-3. [【短編】今から断罪されそうな偽聖女に転生してしまった～すべてをひっくり返して生き残れ～【修正版】](https://ncode.syosetu.com/n9482io/)
-4. [復讐姫にはなりたくないので全て悪役に押し付けます](https://ncode.syosetu.com/n5872io/)
-5. [【短編】浮気を繰り返す婚約者が、君を一番愛しているんだよと言ってきた……キモッ](https://ncode.syosetu.com/n9634io/)
-6. [「お前を愛することはできない」と婚約者殿に断言されました。早期のご通達に感謝します](https://ncode.syosetu.com/n8992io/)
-7. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
-8. [私はヤンデレ素質のある幼なじみのことを愛している。](https://ncode.syosetu.com/n8861io/)
-9. [人嫌いのはずの素数令息がグイグイ押してくるんですけど](https://ncode.syosetu.com/n8773io/)
-10. [【短編】祈ることにより『その国に必要なもの』を与えられる聖女のお話](https://ncode.syosetu.com/n8746io/)
+1. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+2. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
+3. [【連載版】クラス転移したら、なぜか引きこもりの俺まで異世界に連れてかれたんだが　～『自宅』のギフトが最強だったので、快適な異世界ライフを送ろうと思います～](https://ncode.syosetu.com/n3960io/)
+4. [35歳独身山田の人生逆転魔法　～現代社会に疲れた俺は異世界でスローライフを楽しむために現代で悪魔と戦って金儲けをしながら異世界村を発展させることにしました～](https://ncode.syosetu.com/n3115io/)
+5. [伯爵夫人がゴボウで素振りをしている](https://ncode.syosetu.com/n1717io/)
+6. [侍女曰く、根性でいけるらしい。](https://ncode.syosetu.com/n2543io/)
+7. [てめぇの所為だよ](https://ncode.syosetu.com/n0856ip/)
+8. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
+9. [魅了魔法の正しい使い方](https://ncode.syosetu.com/n9750io/)
+10. [【書籍2巻発売/コミカライズ連載中】悪役令嬢の矜持〜婚約者を奪い取って義姉を追い出した私は、どうやら今から破滅するようです。〜](https://ncode.syosetu.com/n0753hr/)
