@@ -8,8 +8,8 @@
 
 ## Trending
 
-1. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
-2. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
+1. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
+2. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
 3. [初夜に自白剤を盛るとは何事か！　悪役令嬢は、洗いざらいすべてをぶちまけた](https://ncode.syosetu.com/n2873ii/)
 4. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
 5. [【書籍2巻発売/コミカライズ連載中】悪役令嬢の矜持〜婚約者を奪い取って義姉を追い出した私は、どうやら今から破滅するようです。〜](https://ncode.syosetu.com/n0753hr/)
