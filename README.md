@@ -17,4 +17,4 @@
 7. [ここ掘れ！悪役令嬢～追放先で最愛を掘り当てました～](https://ncode.syosetu.com/n9956io/)
 8. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
 9. [異世界に聖女として召喚されましたが、私はただのアラサー女です](https://ncode.syosetu.com/n4293io/)
-10. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
+10. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
