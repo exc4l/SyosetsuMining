@@ -16,5 +16,5 @@
 6. [棚ぼた式悪役令嬢の幸せな日々。by コアラ。](https://ncode.syosetu.com/n7846io/)
 7. [手段は選びません！](https://ncode.syosetu.com/n7834io/)
 8. [どうやら今どきギャルな幼馴染の姉は何でも完璧にできる双子の兄の劣化版と呼ばれている俺の事を病的に愛しているヤンデレらしい](https://ncode.syosetu.com/n6016io/)
-9. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
-10. [【書籍2巻発売/コミカライズ連載中】悪役令嬢の矜持〜婚約者を奪い取って義姉を追い出した私は、どうやら今から破滅するようです。〜](https://ncode.syosetu.com/n0753hr/)
+9. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
+10. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
