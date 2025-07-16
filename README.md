@@ -17,4 +17,4 @@
 7. [これを恋と呼ぶなら](https://ncode.syosetu.com/n4785io/)
 8. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
 9. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
-10. [どうやら今どきギャルな幼馴染の姉は何でも完璧にできる双子の兄の劣化版と呼ばれている俺の事を病的に愛しているヤンデレらしい](https://ncode.syosetu.com/n6016io/)
+10. [棚ぼた式悪役令嬢の幸せな日々。by コアラ。](https://ncode.syosetu.com/n7846io/)
