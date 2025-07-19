@@ -15,6 +15,6 @@
 5. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
 6. [初夜に自白剤を盛るとは何事か！　悪役令嬢は、洗いざらいすべてをぶちまけた](https://ncode.syosetu.com/n2873ii/)
 7. [これを恋と呼ぶなら](https://ncode.syosetu.com/n4785io/)
-8. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
-9. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
+8. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
+9. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
 10. [棚ぼた式悪役令嬢の幸せな日々。by コアラ。](https://ncode.syosetu.com/n7846io/)
