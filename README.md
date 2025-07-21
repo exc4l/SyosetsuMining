@@ -17,4 +17,4 @@
 7. [これを恋と呼ぶなら](https://ncode.syosetu.com/n4785io/)
 8. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
 9. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
-10. [手段は選びません！](https://ncode.syosetu.com/n7834io/)
+10. [白い結婚、黒い悪妻 〜贅沢は素敵だ](https://ncode.syosetu.com/n7720id/)
