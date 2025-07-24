@@ -16,5 +16,5 @@
 6. [初夜に自白剤を盛るとは何事か！　悪役令嬢は、洗いざらいすべてをぶちまけた](https://ncode.syosetu.com/n2873ii/)
 7. [これを恋と呼ぶなら](https://ncode.syosetu.com/n4785io/)
 8. [白い結婚、黒い悪妻 〜贅沢は素敵だ](https://ncode.syosetu.com/n7720id/)
-9. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
-10. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
+9. [婚約破棄劇の傍観者ですが見ていられません「お兄様やっちゃってください」](https://ncode.syosetu.com/n9749ia/)
+10. [【完結・連載版】勇者な王太子殿下が魔王に呪われましたが私が即座に口付けします　〜報酬に3食とおやつと昼寝付き生活ありだと思う〜](https://ncode.syosetu.com/n2961in/)
