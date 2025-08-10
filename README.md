@@ -16,5 +16,5 @@
 6. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
 7. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
 8. [異世界に聖女として召喚されましたが、私はただのアラサー女です](https://ncode.syosetu.com/n4293io/)
-9. [【資格マスター】の現代ダンジョン攻略記](https://ncode.syosetu.com/n7332im/)
-10. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
+9. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
+10. [【資格マスター】の現代ダンジョン攻略記](https://ncode.syosetu.com/n7332im/)
