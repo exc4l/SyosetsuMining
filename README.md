@@ -17,4 +17,4 @@
 7. [35歳独身山田の人生逆転魔法　～現代社会に疲れた俺は異世界でスローライフを楽しむために現代で悪魔と戦って金儲けをしながら異世界村を発展させることにしました～](https://ncode.syosetu.com/n3115io/)
 8. [白い結婚、黒い悪妻 〜贅沢は素敵だ](https://ncode.syosetu.com/n7720id/)
 9. [青い鷹は翼を休めたい](https://ncode.syosetu.com/n0377ie/)
-10. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
+10. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
