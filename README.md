@@ -17,4 +17,4 @@
 7. [【新連載】傍若無人な姉の代わりに働かされていた妹、辺境領地に左遷されたと思ったら待っていたのは王子様でした!?　～無自覚天才錬金術師の辺境街づくり～](https://ncode.syosetu.com/n0091ip/)
 8. [白い結婚、黒い悪妻 〜贅沢は素敵だ](https://ncode.syosetu.com/n7720id/)
 9. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
-10. [青い鷹は翼を休めたい](https://ncode.syosetu.com/n0377ie/)
+10. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
