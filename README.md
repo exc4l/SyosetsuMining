@@ -17,4 +17,4 @@
 7. [ミニャのオモチャ箱　～ネコミミ少女交流記～](https://ncode.syosetu.com/n6187io/)
 8. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
 9. [【資格マスター】の現代ダンジョン攻略記](https://ncode.syosetu.com/n7332im/)
-10. [手段は選びません！](https://ncode.syosetu.com/n7834io/)
+10. [白い結婚、黒い悪妻 〜贅沢は素敵だ](https://ncode.syosetu.com/n7720id/)
