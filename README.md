@@ -16,5 +16,5 @@
 6. [ミニャのオモチャ箱　～ネコミミ少女交流記～](https://ncode.syosetu.com/n6187io/)
 7. [逃亡賢者（候補）のぶらり旅　〜召喚されましたが、逃げ出して安寧の地探しを楽しみます〜](https://ncode.syosetu.com/n5418hv/)
 8. [白い結婚、黒い悪妻 〜贅沢は素敵だ](https://ncode.syosetu.com/n7720id/)
-9. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
-10. [婚約者は義妹の方が大切なので、ふたりが結婚できるようにしてあげようと思います](https://ncode.syosetu.com/n8269hq/)
+9. [婚約者は義妹の方が大切なので、ふたりが結婚できるようにしてあげようと思います](https://ncode.syosetu.com/n8269hq/)
+10. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
