@@ -8,8 +8,8 @@
 
 ## Trending
 
-1. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
-2. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+1. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+2. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
 3. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 4. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
 5. [【書籍2巻発売/コミカライズ連載中】悪役令嬢の矜持〜婚約者を奪い取って義姉を追い出した私は、どうやら今から破滅するようです。〜](https://ncode.syosetu.com/n0753hr/)
