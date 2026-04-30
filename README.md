@@ -16,5 +16,5 @@
 6. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
 7. [35歳独身山田の人生逆転魔法　～現代社会に疲れた俺は異世界でスローライフを楽しむために現代で悪魔と戦って金儲けをしながら異世界村を発展させることにしました～](https://ncode.syosetu.com/n3115io/)
 8. [【完結・連載版】勇者な王太子殿下が魔王に呪われましたが私が即座に口付けします　〜報酬に3食とおやつと昼寝付き生活ありだと思う〜](https://ncode.syosetu.com/n2961in/)
-9. [棚ぼた式悪役令嬢の幸せな日々。by コアラ。](https://ncode.syosetu.com/n7846io/)
-10. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
+9. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
+10. [棚ぼた式悪役令嬢の幸せな日々。by コアラ。](https://ncode.syosetu.com/n7846io/)
