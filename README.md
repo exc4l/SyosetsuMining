@@ -16,5 +16,5 @@
 6. [これを恋と呼ぶなら](https://ncode.syosetu.com/n4785io/)
 7. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
 8. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
-9. [【完結・連載版】勇者な王太子殿下が魔王に呪われましたが私が即座に口付けします　〜報酬に3食とおやつと昼寝付き生活ありだと思う〜](https://ncode.syosetu.com/n2961in/)
-10. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
+9. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
+10. [【完結・連載版】勇者な王太子殿下が魔王に呪われましたが私が即座に口付けします　〜報酬に3食とおやつと昼寝付き生活ありだと思う〜](https://ncode.syosetu.com/n2961in/)
