@@ -8,8 +8,8 @@
 
 ## Trending
 
-1. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
-2. [侍女曰く、根性でいけるらしい。](https://ncode.syosetu.com/n2543io/)
+1. [侍女曰く、根性でいけるらしい。](https://ncode.syosetu.com/n2543io/)
+2. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
 3. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 4. [冷徹公爵様にお決まりの「君を好きになることはない」と言われたので「以下同文です」と返したら「考え直してくれ」と懇願された件について](https://ncode.syosetu.com/n5610io/)
 5. [悪役令嬢レベル99～私は裏ボスですが魔王ではありません～（←このタイトル間違いでした。本作は”光の魔法と勇者様”です）](https://ncode.syosetu.com/n0284ev/)
