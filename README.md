@@ -15,6 +15,6 @@
 5. [青い鷹は翼を休めたい](https://ncode.syosetu.com/n0377ie/)
 6. [婚約破棄劇の傍観者ですが見ていられません「お兄様やっちゃってください」](https://ncode.syosetu.com/n9749ia/)
 7. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
-8. [私が妻でなくてもいいのでは？](https://ncode.syosetu.com/n6633io/)
-9. [婚約者は義妹の方が大切なので、ふたりが結婚できるようにしてあげようと思います](https://ncode.syosetu.com/n8269hq/)
+8. [婚約者は義妹の方が大切なので、ふたりが結婚できるようにしてあげようと思います](https://ncode.syosetu.com/n8269hq/)
+9. [私が妻でなくてもいいのでは？](https://ncode.syosetu.com/n6633io/)
 10. [【書籍2巻発売/コミカライズ連載中】悪役令嬢の矜持〜婚約者を奪い取って義姉を追い出した私は、どうやら今から破滅するようです。〜](https://ncode.syosetu.com/n0753hr/)
