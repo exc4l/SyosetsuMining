@@ -8,8 +8,8 @@
 
 ## Trending
 
-1. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
-2. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
+1. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
+2. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
 3. [『魔物を倒したら魔力が溜まる』というスキルを授かり「本末転倒！」と僻地に追放されましたが、おかげさまで廃墟のリノベーションがはかどります](https://ncode.syosetu.com/n2256im/)
 4. [白い結婚、黒い悪妻 〜贅沢は素敵だ](https://ncode.syosetu.com/n7720id/)
 5. [【アニメ放映中】ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する](https://ncode.syosetu.com/n1784ga/)
