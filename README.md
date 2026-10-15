@@ -8,8 +8,8 @@
 
 ## Trending
 
-1. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
-2. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+1. [捨てられ公爵夫人は、平穏な生活をお望みのようです](https://ncode.syosetu.com/n4395il/)
+2. [薬屋のひとりごと](https://ncode.syosetu.com/n9636x/)
 3. [女神の加護はそんなにも大事ですか？](https://ncode.syosetu.com/n3888io/)
 4. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
 5. [『魔物を倒したら魔力が溜まる』というスキルを授かり「本末転倒！」と僻地に追放されましたが、おかげさまで廃墟のリノベーションがはかどります](https://ncode.syosetu.com/n2256im/)
