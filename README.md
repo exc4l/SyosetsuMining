@@ -17,4 +17,4 @@
 7. [スキルツリーの解錠者〜A級パーティーを追放されたので【解錠&施錠】を活かして、S級冒険者を目指す〜](https://ncode.syosetu.com/n2693io/)
 8. [ミニャのオモチャ箱　～ネコミミ少女交流記～](https://ncode.syosetu.com/n6187io/)
 9. [治癒魔法の間違った使い方～戦場を駆ける回復要員～](https://ncode.syosetu.com/n2468ca/)
-10. [悪役令嬢レベル99～私は裏ボスですが魔王ではありません～（←このタイトル間違いでした。本作は”光の魔法と勇者様”です）](https://ncode.syosetu.com/n0284ev/)
+10. [推しから溺愛される義妹に転生しました](https://ncode.syosetu.com/n5287io/)
